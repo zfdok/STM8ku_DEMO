@@ -1,0 +1,27 @@
+led.pbi: C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\BSP\led.c \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\usr\pbdata.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\stm8s_conf.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_adc2.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc/stm8s.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_awu.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_beep.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_can.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_clk.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_exti.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_flash.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_gpio.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_i2c.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_itc.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_iwdg.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_rst.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_spi.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_tim1.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_tim2.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_tim3.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_tim4.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_uart1.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_uart3.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\IAR\..\lib\inc\stm8s_wwdg.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  C:\Users\16282\Desktop\STM8_DEMO\STM8ku_DEMO\BSP\led.h
